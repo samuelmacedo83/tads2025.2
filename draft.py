@@ -1,2 +1,3 @@
-# Meu primeiro draft
-2 + 2 
+from functions.plot import plot_ts
+
+plot_ts('MSFT')
